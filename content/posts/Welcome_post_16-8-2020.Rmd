@@ -1,0 +1,29 @@
+---
+title: "Welcome to DASA's website"
+author: "DASA"
+date: "16/08/2020"
+output: html_document
+---
+#WElcpome 16-8-2020
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lets Hope this works
+
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## It looks like is tis all set up 
