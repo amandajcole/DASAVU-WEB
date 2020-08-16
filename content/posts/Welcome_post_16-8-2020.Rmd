@@ -4,7 +4,7 @@ author: "DASA"
 date: "16/08/2020"
 output: html_document
 ---
-#WElcpome 16-8-2020
+#Welcome 16-8-2020
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
