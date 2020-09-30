@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     author = "DASA"
     title = "DASA Vic Uni Website"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/DASA_HEX.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
