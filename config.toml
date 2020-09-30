@@ -3,7 +3,7 @@ baseurl = "/"
 languageCode = "en"
 
 title = "DASA.VICUNI"
-theme = "hugo-now-master"
+theme = "hyde-hyde"
 
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"
