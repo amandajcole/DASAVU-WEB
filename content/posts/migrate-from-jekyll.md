@@ -2,7 +2,7 @@
 categories:
 - Development
 - golang
-date: "2014-03-10"
+date: "2016-07-11"
 linktitle: Migrating from Jekyll
 tags:
 - hugo
